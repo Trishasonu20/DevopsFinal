@@ -14,12 +14,12 @@ function About() {
       <div className="about-nike-part">
         <h2 className="about-nike-heading">Abouddddt Nidddke</h2>
         <p className='about-nike-para'>
-          Our missioddn is what drives us to do everything possible to expand
-          human potential. We do that by creating groundbreadddking sport
-          innovations, by making our products more sudddstainably, by building a
-          creative and diverseacadcadc global team and by making a positive impact in
-          communities where sacascawe live and work. Based in Beaverton, Oregon, NIKE,
-          Inc. incluascacvfvz des the Nike, Converse, and Jordan brands.
+          Our mission is what drives us to do everything possible to expand
+          human potential. We do that by creating ground breaking sports
+          innovations, by making our products more sustainably, by building a
+          creative and diverse global team and by making a positive impact in
+          communities where we live and work. Based in Beaverton, Oregon, NIKE, 
+          Nike Golf,NIke Pro,Nike CR7and subsidaires including Air Jordan and Converse brands.
         </p>
       </div>
     </div>
