@@ -14,7 +14,7 @@ import { useHistory } from "react-router-dom";
 const useStyles = makeStyles((theme) => ({
   root: {
     width: "95%",
-    backgroundColor: "purple",
+    backgroundColor: "light blue",
     textAlign: "center",
   },
 
