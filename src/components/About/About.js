@@ -6,10 +6,13 @@ function About() {
       <div className="banner-image-about">
         <div className="about-nike">
           <h2 className="about-nike-text">OUR MISSION</h2>
+          <h3 className="about-nike-text">OUR VISSION</h3>
           <p>
-            "WITH EACH STEP COMES THE DECISION TO TAKE ANOTHER.YOU'RE ON YOUR WAY NOW"
-            "JDI"
+            "To Bring Inspiration And Innovation To Every Athlete In The World." 
           </p>
+          <p1>
+            "DO Everything Possible To Expand Human Potenial" -JDI
+          </p1>
         </div>
       </div>
       <div className="about-nike-part">
